@@ -1,4 +1,4 @@
-**Project Title: Human Activity Recognition with Neural Networks**
+#**Project Title: Human Activity Recognition with Neural Networks**
 
 **Project Description:**
 
