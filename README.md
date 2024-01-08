@@ -1,4 +1,4 @@
-# Human-Activity-Recognition
+
 
 **Project Title: Human Activity Recognition with Neural Networks**
 
