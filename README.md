@@ -46,4 +46,4 @@ The Human Activity Recognition project aims to develop an intelligent system cap
    - Summarizing the findings and insights gained from the project.
    - Suggesting potential improvements or extensions for future work.
 
-This Human Activity Recognition project integrates various data preprocessing techniques, statistical analyses, and advanced machine learning methodologies to create an efficient model capable of recognizing and classifying human activities based on sensor data. The use of neural networks ensures the model's ability to learn complex patterns and relationships within the dataset.
+
